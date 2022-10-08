@@ -7,10 +7,7 @@
   <a href="GAMEPLAY.md">Gameplay Guide</a> ·
   <a href="CONFIGURATION.md">Configuration</a> ·
   <a href="CHANGELOG.md">Changelog</a> ·
-  <a href="https://loadorderlibrary.com/lists/lostlegacy">Full Modlist</a> ·
-  <a href="HELP.md">Help</a> ·
-  <a href="https://www.twitch.tv/greatpadinski">Twitch</a> ·
-  <a href="https://www.patreon.com/greatpadinski">Patreon</a>
+  <a href="https://loadorderlibrary.com/lists/lostlegacy">Full Modlist</a>
 </p>
 
 ---
@@ -51,7 +48,7 @@
 
 # Introduction
 
-Lost Legacy is a full on power fantasy modlist (Vokriinator + EnaiRim) with a massive amount of new quest mods, 5000+ LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics! Performance mode available too!
+This modlist is a full on power fantasy modlist (Vokriinator + EnaiRim) with a massive amount of new quest mods, 5000+ LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics! Performance mode available too!
 
 ### Minimum Specs
 With the performance mode options being available, exact minimum requirements is hard to nail down but Lost Legacy has been reported to run fine on low to mid-end GPUs. 
@@ -59,8 +56,8 @@ With the performance mode options being available, exact minimum requirements is
 With performance mode disabled, on my specs (below) I typically get 50-60fps in most areas of the game, and some dense areas like Riften I may drop down to 40ish. Performance options for the modlist are included which increase fps drastically. See [Configuration](CONFIGURATION.md#performance-guide)
 
 My specs: (**NOT requirements**)
-- GTX 1080
-- Intel i7-8700k
+- GTX 3070Ti
+- Ryzen 5 5600x
 - 16 GB RAM
 
 Downloads: 106GB  
@@ -210,8 +207,4 @@ If you wish to further customize by changing the ENB preset, changing dodge keys
 
 # Issues
 
-If you find an issue, you can see if it is already on the list of [known issues](HELP.md), which also documents solutions and workarounds.
-
-For issues that aren't yet [known](HELP.md), you can provide details in the [Lost Legacy Github](https://github.com/Lost-Outpost/lost-legacy/issues). Please provide as much info as you can (screenshots are great).
-
-Finally, free feel to hop on the Lost Legacy Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
+If you find an issue, feel free to reach out to me and I'll do my best to help!
