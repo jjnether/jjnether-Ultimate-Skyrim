@@ -205,6 +205,15 @@ This section is under construction: [gameplay guide](GAMEPLAY.md)
 
 If you wish to further customize by changing the ENB preset, changing dodge keys, or swapping optional mods you can visit the [Configuration](CONFIGURATION.md) page for more info.
 
+# Google Drive Downloads
+Below are mods that should have been downloaded from my google drive:
+- Falskaar - Addons and Patches
+  - Official mod had an incorrectly named master for BDS
+- Open Cities Skyrim Patches
+  - Official mod had a broken FOMOD folder
+- A Quality World Map (vivid with stone roads)
+  - Official mod was not marked as form44 (for Skyrim SE)
+
 # Issues
 
 If you find an issue, feel free to reach out to me and I'll do my best to help!
