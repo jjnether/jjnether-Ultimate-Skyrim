@@ -48,7 +48,7 @@
 
 # Introduction
 
-This modlist is a full on power fantasy modlist (Vokriinator + EnaiRim) with a massive amount of new quest mods, 5000+ LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics! Performance mode available too!
+This modlist is a full on power fantasy modlist (Vokriinator + EnaiRim) with a massive amount of new quest mods, 5000+ LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics! Performance mode available too! This modlist uses a stock game folder system running Skyrim Special Edition version 1.6.353.
 
 ### Minimum Specs
 With the performance mode options being available, exact minimum requirements is hard to nail down but Lost Legacy has been reported to run fine on low to mid-end GPUs. 
@@ -114,9 +114,6 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 
 ## Start Skyrim
 Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the Skyrim directory.
-
-## DOWNGRADE SKYRIM (Temporary step until 1.1.0)
-Due to the recent Skyrim update, the list will not install unless you downgrade to 1.6.629 using this exact link: https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=318028&game_id=1704
 
 ## Using Wabbajack
 
